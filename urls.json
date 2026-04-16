@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "dmonline2": {
+      "url": "https://certificates-tip-latter-retained.trycloudflare.com",
+      "description": "デュエマオンライン2 (React + Python backend)",
+      "updated": "2026-04-16T00:46:00Z",
+      "host": "pixel5"
+    }
+  }
+}
