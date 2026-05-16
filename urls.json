@@ -1,9 +1,9 @@
 {
   "projects": {
     "dmonline2": {
-      "url": "https://const-vienna-baptist-dust.trycloudflare.com",
+      "url": "https://particle-phpbb-thinking-americans.trycloudflare.com",
       "description": "デュエマオンライン2 (React + Python backend)",
-      "updated": "2026-05-16T11:53:47Z",
+      "updated": "2026-05-16T11:54:05Z",
       "host": "pixel5"
     }
   }
