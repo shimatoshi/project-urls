@@ -13,9 +13,9 @@
       "host": "pixel5"
     },
     "shimatube": {
-      "url": "https://picks-keeps-fitness-soviet.trycloudflare.com",
+      "url": "https://api.trycloudflare.com",
       "description": "ShimaTube NEO - YouTube proxy",
-      "updated": "2026-05-26T06:57:01Z",
+      "updated": "2026-05-26T06:59:27Z",
       "host": "pixel5"
     }
   }
