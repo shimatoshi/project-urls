@@ -11,6 +11,12 @@
       "description": "Research ZIM Factory - AI調査→ZIM生成",
       "updated": "2026-05-20T13:47:40Z",
       "host": "pixel5"
+    },
+    "shimatube": {
+      "url": "https://motivation-targeted-container-quarter.trycloudflare.com",
+      "description": "ShimaTube NEO - YouTube proxy",
+      "updated": "2026-05-26T06:26:58Z",
+      "host": "pixel5"
     }
   }
 }
