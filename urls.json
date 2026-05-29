@@ -1,9 +1,9 @@
 {
   "projects": {
     "dmonline2": {
-      "url": "https://currencies-scan-assistant-railway.trycloudflare.com",
+      "url": "https://pocket-scanned-erik-tampa.trycloudflare.com",
       "description": "デュエマオンライン2 (React + Python backend)",
-      "updated": "2026-05-29T02:43:54Z",
+      "updated": "2026-05-29T17:33:00Z",
       "host": "pixel5"
     },
     "research-zim": {
