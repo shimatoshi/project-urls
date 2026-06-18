@@ -17,6 +17,12 @@
       "description": "ShimaTube NEO - YouTube proxy",
       "updated": "2026-06-03T02:29:14Z",
       "host": "pixel5"
+    },
+    "pokechamp": {
+      "url": "https://thinkpad-comprehensive-des-loop.trycloudflare.com",
+      "description": "ポケチャン ダメ計 — コミュニティ共有バックエンド (BOX/編成データ)",
+      "updated": "2026-06-18T05:54:08Z",
+      "host": "pixel5"
     }
   }
 }
