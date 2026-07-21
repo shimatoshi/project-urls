@@ -23,6 +23,12 @@
       "description": "ポケチャン ダメ計 — コミュニティ共有バックエンド (BOX/編成データ)",
       "updated": "2026-07-02T02:22:50Z",
       "host": "pixel5"
+    },
+    "p5-console": {
+      "url": "https://fastest-solo-lamp-sperm.trycloudflare.com/",
+      "description": "p5-console - 所有者専用直結Claude Codeコンソール",
+      "updated": "2026-07-21T19:41:45Z",
+      "host": "pixel5"
     }
   }
 }
