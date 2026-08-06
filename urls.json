@@ -31,9 +31,9 @@
       "host": "pixel5"
     },
     "browserai": {
-      "url": "https://api.trycloudflare.com",
+      "url": "https://previous-doubt-mixing-assessed.trycloudflare.com",
       "description": "frog browserai bridge (ChatGPT/Gemini web, Playwright)",
-      "updated": "2026-08-06T14:22:46Z",
+      "updated": "2026-08-06T14:23:23Z",
       "host": "shimabook2"
     }
   }
