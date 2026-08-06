@@ -29,6 +29,12 @@
       "description": "p5-console - 所有者専用直結Claude Codeコンソール",
       "updated": "2026-07-21T20:00:25Z",
       "host": "pixel5"
+    },
+    "browserai": {
+      "url": "https://orientation-venues-campaign-jungle.trycloudflare.com",
+      "description": "frog browserai bridge (ChatGPT/Gemini web, Playwright)",
+      "updated": "2026-08-06T06:16:14Z",
+      "host": "shimabook2"
     }
   }
 }
