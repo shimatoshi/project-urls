@@ -31,9 +31,9 @@
       "host": "pixel5"
     },
     "browserai": {
-      "url": "https://triangle-receives-disabilities-personalized.trycloudflare.com",
+      "url": "https://api.trycloudflare.com",
       "description": "frog browserai bridge (ChatGPT/Gemini web, Playwright)",
-      "updated": "2026-08-06T13:29:49Z",
+      "updated": "2026-08-06T14:22:46Z",
       "host": "shimabook2"
     }
   }
