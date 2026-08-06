@@ -31,9 +31,9 @@
       "host": "pixel5"
     },
     "browserai": {
-      "url": "https://tap-springer-reflection-dem.trycloudflare.com",
+      "url": "https://lambda-marina-parallel-unsigned.trycloudflare.com",
       "description": "frog browserai bridge (ChatGPT/Gemini web, Playwright)",
-      "updated": "2026-08-06T06:17:29Z",
+      "updated": "2026-08-06T06:18:10Z",
       "host": "shimabook2"
     }
   }
