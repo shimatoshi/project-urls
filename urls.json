@@ -13,9 +13,9 @@
       "host": "pixel5"
     },
     "shimatube": {
-      "url": "https://api.trycloudflare.com",
+      "url": "https://clusters-eastern-sizes-contracting.trycloudflare.com",
       "description": "ShimaTube NEO - YouTube proxy",
-      "updated": "2026-08-28T06:46:38Z",
+      "updated": "2026-08-28T06:47:17Z",
       "host": "shimabook"
     },
     "pokechamp": {
