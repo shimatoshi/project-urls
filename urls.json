@@ -13,9 +13,9 @@
       "host": "pixel5"
     },
     "shimatube": {
-      "url": "https://ann-qualities-ready-dna.trycloudflare.com",
+      "url": "https://api.trycloudflare.com",
       "description": "ShimaTube NEO - YouTube proxy",
-      "updated": "2026-08-28T03:39:56Z",
+      "updated": "2026-08-28T06:46:38Z",
       "host": "shimabook"
     },
     "pokechamp": {
