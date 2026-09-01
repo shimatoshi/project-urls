@@ -7,10 +7,10 @@
       "host": "pixel5"
     },
     "research-zim": {
-      "url": "https://qld-connectors-before-harrison.trycloudflare.com/app",
+      "url": "https://perception-engine-amd-surgeon.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-08-31T22:55:45Z",
-      "host": "pixel5"
+      "updated": "2026-09-01T07:37:30Z",
+      "host": "redmi"
     },
     "shimatube": {
       "url": "https://sheep-blocks-effect-considerations.trycloudflare.com",
