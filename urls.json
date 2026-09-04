@@ -7,9 +7,9 @@
       "host": "pixel5"
     },
     "research-zim": {
-      "url": "https://api.trycloudflare.com/app",
+      "url": "https://closing-led-lace-ons.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-09-04T15:44:33Z",
+      "updated": "2026-09-04T15:45:14Z",
       "host": "shimabook"
     },
     "shimatube": {
