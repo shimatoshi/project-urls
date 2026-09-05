@@ -7,9 +7,9 @@
       "host": "pixel5"
     },
     "research-zim": {
-      "url": "https://api.trycloudflare.com/app",
+      "url": "https://ebony-suggested-neutral-timing.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-09-05T22:37:55Z",
+      "updated": "2026-09-05T22:38:31Z",
       "host": "shimabook"
     },
     "shimatube": {
