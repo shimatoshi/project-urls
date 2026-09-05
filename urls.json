@@ -7,9 +7,9 @@
       "host": "pixel5"
     },
     "research-zim": {
-      "url": "https://api.trycloudflare.com/app",
+      "url": "https://tin-stamps-sides-debut.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-09-05T19:35:52Z",
+      "updated": "2026-09-05T19:36:29Z",
       "host": "shimabook"
     },
     "shimatube": {
