@@ -7,9 +7,9 @@
       "host": "pixel5"
     },
     "research-zim": {
-      "url": "https://retailer-est-temp-attorney.trycloudflare.com/app",
+      "url": "https://api.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-09-05T13:29:14Z",
+      "updated": "2026-09-05T19:35:52Z",
       "host": "shimabook"
     },
     "shimatube": {
