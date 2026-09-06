@@ -7,9 +7,9 @@
       "host": "pixel5"
     },
     "research-zim": {
-      "url": "https://api.trycloudflare.com/app",
+      "url": "https://consoles-intense-characterization-closure.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-09-06T23:13:58Z",
+      "updated": "2026-09-06T23:14:41Z",
       "host": "shimabook"
     },
     "shimatube": {
