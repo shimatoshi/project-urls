@@ -13,9 +13,9 @@
       "host": "shimabook"
     },
     "shimatube": {
-      "url": "https://twelve-warriors-miniature-tournament.trycloudflare.com",
+      "url": "https://api.trycloudflare.com",
       "description": "ShimaTube NEO - YouTube proxy",
-      "updated": "2026-09-06T00:04:37Z",
+      "updated": "2026-09-08T00:16:13Z",
       "host": "shimabook"
     },
     "pokechamp": {
