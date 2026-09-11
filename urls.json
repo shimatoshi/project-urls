@@ -7,10 +7,10 @@
       "host": "pixel5"
     },
     "research-zim": {
-      "url": "https://reforms-mailing-dash-tower.trycloudflare.com/app",
+      "url": "https://api.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-09-11T16:57:52Z",
-      "host": "redmi"
+      "updated": "2026-09-11T17:10:38Z",
+      "host": "shimabook"
     },
     "shimatube": {
       "url": "https://females-cuisine-benchmark-defendant.trycloudflare.com",
