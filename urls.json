@@ -7,9 +7,9 @@
       "host": "pixel5"
     },
     "research-zim": {
-      "url": "https://api.trycloudflare.com/app",
+      "url": "https://books-expenditures-puzzles-pen.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-09-11T17:10:38Z",
+      "updated": "2026-09-11T17:11:18Z",
       "host": "shimabook"
     },
     "shimatube": {
