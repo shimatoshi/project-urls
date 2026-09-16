@@ -7,9 +7,9 @@
       "host": "redmi"
     },
     "research-zim": {
-      "url": "https://api.trycloudflare.com/app",
+      "url": "https://hoped-determination-dicke-generic.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-09-16T10:32:54Z",
+      "updated": "2026-09-16T10:34:20Z",
       "host": "shimabook"
     },
     "shimatube": {
