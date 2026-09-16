@@ -7,9 +7,9 @@
       "host": "redmi"
     },
     "research-zim": {
-      "url": "https://yours-matt-highway-intervals.trycloudflare.com/app",
+      "url": "https://api.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-09-16T08:42:09Z",
+      "updated": "2026-09-16T10:32:54Z",
       "host": "shimabook"
     },
     "shimatube": {
