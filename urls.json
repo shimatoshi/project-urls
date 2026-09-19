@@ -7,9 +7,9 @@
       "host": "redmi"
     },
     "research-zim": {
-      "url": "https://api.trycloudflare.com/app",
+      "url": "https://crop-davis-remains-aqua.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-09-19T21:33:37Z",
+      "updated": "2026-09-19T21:34:17Z",
       "host": "shimabook"
     },
     "shimatube": {
