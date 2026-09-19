@@ -7,9 +7,9 @@
       "host": "redmi"
     },
     "research-zim": {
-      "url": "https://harold-option-customize-circuit.trycloudflare.com/app",
+      "url": "https://api.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-09-19T21:32:40Z",
+      "updated": "2026-09-19T21:33:37Z",
       "host": "shimabook"
     },
     "shimatube": {
