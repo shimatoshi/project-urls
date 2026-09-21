@@ -7,9 +7,9 @@
       "host": "redmi"
     },
     "research-zim": {
-      "url": "https://life-basename-labor-project.trycloudflare.com/app",
+      "url": "https://api.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-09-21T13:08:36Z",
+      "updated": "2026-09-21T20:59:32Z",
       "host": "shimabook"
     },
     "shimatube": {
