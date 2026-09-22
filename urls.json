@@ -13,10 +13,10 @@
       "host": "shimabook"
     },
     "shimatube": {
-      "url": "https://gmbh-thick-championships-tear.trycloudflare.com",
+      "url": "https://api.trycloudflare.com",
       "description": "ShimaTube NEO - YouTube proxy",
-      "updated": "2026-09-22T18:32:01Z",
-      "host": "pixel5"
+      "updated": "2026-09-22T19:06:41Z",
+      "host": "shimabook"
     },
     "pokechamp": {
       "url": "https://ala-caught-italia-coleman.trycloudflare.com",
