@@ -7,9 +7,9 @@
       "host": "redmi"
     },
     "research-zim": {
-      "url": "https://ratio-pct-acute-familiar.trycloudflare.com/app",
+      "url": "https://api.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-09-22T07:04:30Z",
+      "updated": "2026-09-22T07:15:24Z",
       "host": "shimabook"
     },
     "shimatube": {
