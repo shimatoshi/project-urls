@@ -13,9 +13,9 @@
       "host": "shimabook"
     },
     "shimatube": {
-      "url": "https://api.trycloudflare.com",
+      "url": "https://counted-screens-studies-ear.trycloudflare.com",
       "description": "ShimaTube NEO - YouTube proxy",
-      "updated": "2026-09-22T06:54:30Z",
+      "updated": "2026-09-22T06:55:09Z",
       "host": "shimabook"
     },
     "pokechamp": {
