@@ -7,9 +7,9 @@
       "host": "redmi"
     },
     "research-zim": {
-      "url": "https://api.trycloudflare.com/app",
+      "url": "https://rendering-saves-politics-lincoln.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-09-22T17:25:05Z",
+      "updated": "2026-09-22T17:25:53Z",
       "host": "shimabook"
     },
     "shimatube": {
