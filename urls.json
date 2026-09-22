@@ -7,9 +7,9 @@
       "host": "redmi"
     },
     "research-zim": {
-      "url": "https://pushed-birthday-pieces-beverly.trycloudflare.com/app",
+      "url": "https://api.trycloudflare.com/app",
       "description": "Research ZIM Factory - AI調査→ZIM生成",
-      "updated": "2026-09-22T17:09:07Z",
+      "updated": "2026-09-22T17:25:05Z",
       "host": "shimabook"
     },
     "shimatube": {
