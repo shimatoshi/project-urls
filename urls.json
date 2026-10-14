@@ -47,6 +47,12 @@
       "description": "Research ZIM Factory (GPT版)",
       "updated": "2026-10-13T13:15:39Z",
       "host": "pixel5"
+    },
+    "toshiyuki-note-api": {
+      "url": "https://forest-definitions-rfc-verbal.trycloudflare.com",
+      "description": "としゆきノート：旧Pixel SQLite同期API",
+      "host": "old-pixel5",
+      "updated": "2026-10-14T03:06:13Z"
     }
   }
 }
