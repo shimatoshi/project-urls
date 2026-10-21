@@ -1,10 +1,10 @@
 {
   "projects": {
     "dmonline2": {
-      "url": "https://abc-why-reload-area.trycloudflare.com",
-      "description": "デュエマオンライン2 (React + Python backend)",
-      "updated": "2026-10-13T13:20:27Z",
-      "host": "redmi"
+      "url": "https://slow-gale-tub-goes.trycloudflare.com",
+      "description": "dmonline2 backend",
+      "updated": "2026-10-21T23:10:08Z",
+      "host": "localhost"
     },
     "research-zim": {
       "url": "https://void-remarks-refinance-possess.trycloudflare.com/app",
