@@ -13,10 +13,10 @@
       "host": "shimabook"
     },
     "shimatube": {
-      "url": "https://api.trycloudflare.com",
+      "url": "https://sanyo-pierre-compounds-representations.trycloudflare.com",
       "description": "ShimaTube NEO - YouTube proxy",
-      "updated": "2026-10-26T12:54:37Z",
-      "host": "shimabook"
+      "updated": "2026-10-26T12:57:04Z",
+      "host": "pixel5"
     },
     "pokechamp": {
       "url": "https://ala-caught-italia-coleman.trycloudflare.com",
