@@ -1,10 +1,10 @@
 {
   "projects": {
     "dmonline2": {
-      "url": "https://slow-gale-tub-goes.trycloudflare.com",
+      "url": "https://meters-promised-plasma-vessels.trycloudflare.com",
       "description": "デュエマオンライン2 (React + Python backend)",
-      "updated": "2026-10-26T12:20:29Z",
-      "host": "pixel5"
+      "updated": "2026-10-26T20:04:02Z",
+      "host": "redmi"
     },
     "research-zim": {
       "url": "https://specify-super-reform-laser.trycloudflare.com/app",
