@@ -13,9 +13,9 @@
       "host": "shimabook"
     },
     "shimatube": {
-      "url": "https://underground-handles-ppm-orientation.trycloudflare.com",
+      "url": "https://api.trycloudflare.com",
       "description": "ShimaTube NEO - YouTube proxy",
-      "updated": "2026-10-26T12:50:48Z",
+      "updated": "2026-10-26T12:54:37Z",
       "host": "shimabook"
     },
     "pokechamp": {
