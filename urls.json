@@ -53,6 +53,12 @@
       "description": "としゆきノート：旧Pixel SQLite同期API",
       "host": "old-pixel5",
       "updated": "2026-10-14T03:06:13Z"
+    },
+    "zukan": {
+      "url": "https://blink-calculated-das-prohibited.trycloudflare.com",
+      "description": "採集図鑑 書き込みAPI",
+      "updated": "2026-11-21T10:32:34Z",
+      "host": "pixel-5-1"
     }
   }
 }
