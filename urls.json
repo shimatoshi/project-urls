@@ -59,6 +59,12 @@
       "description": "採集図鑑 書き込みAPI",
       "updated": "2026-11-24T07:09:28Z",
       "host": "pixel-5-1"
+    },
+    "ai": {
+      "url": "https://throat-naples-gain-passage.trycloudflare.com",
+      "description": "Open WebUI(招待制)",
+      "updated": "2026-11-25T10:55:26Z",
+      "host": "shimabook3"
     }
   }
 }
